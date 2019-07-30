@@ -1,0 +1,30 @@
+html.container-fluid{
+  background: #ebebe0;
+}
+
+#title{
+  font-family: 'Saira Stencil One', cursive;
+  font-size: 5vw;
+}
+
+#calc-area{
+  height: 75vh;
+  background: #000;
+  margin: 0 auto;
+}
+
+#display{
+  height: 5vw;
+  background:#404040;
+}
+.btn{
+  height: 13vh;
+  background: #404040;
+  color: #fff;
+  font-size: 3vw !important;
+}
+
+#equal-button{
+  background: #337ab7;
+  height: 26vh;
+}
