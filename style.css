@@ -1,3 +1,8 @@
+*{
+  padding: 0;
+  margin:0;
+}
+
 html.container-fluid{
   background: #ebebe0;
 }
@@ -16,6 +21,9 @@ html.container-fluid{
 #display{
   height: 5vw;
   background:#404040;
+  color: #337ab7;
+  font-size: 5vh;
+  text-align: end;
 }
 .btn{
   height: 13vh;
@@ -28,3 +36,10 @@ html.container-fluid{
   background: #337ab7;
   height: 26vh;
 }
+
+#logo{
+  height: 13vh;
+  background: #000;
+  border: none;
+}
+
